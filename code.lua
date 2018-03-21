@@ -21,4 +21,4 @@ elseif text == radio_help then
 	print("play - Старт")
 	print("stop - Стоп")
 	print("volu/vold - Прибавить/Убавить")
-eof
+end
